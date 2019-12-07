@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"哈羅德","nickname":"","note":"Disable Knockback","profile":"測試用的腳色"},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"Hero","classId":5,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"Hero1","traits":[],"initialLevel":1,"maxLevel":99,"name":"瑟雷索恩","nickname":"瑟雷","note":"Disable Knockback","profile":""},
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"哈羅德","nickname":"","note":"Disable Knockback","profile":"測試用的腳色"},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"Hero","classId":5,"equips":[6,0,0,3,0],"faceIndex":0,"faceName":"Hero1","traits":[],"initialLevel":1,"maxLevel":99,"name":"瑟雷索恩","nickname":"瑟雷","note":"Disable Knockback","profile":""},
 {"id":3,"battlerName":"","characterIndex":1,"characterName":"Hero","classId":5,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Hero1","traits":[],"initialLevel":1,"maxLevel":99,"name":"瑟雷森娜","nickname":"瑟雷","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
