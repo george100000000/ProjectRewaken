@@ -13,7 +13,7 @@ null,
 {"id":11,"expanded":true,"name":"Part.III","order":11,"parentId":0,"scrollX":811,"scrollY":453},
 {"id":12,"expanded":false,"name":"森林1","order":12,"parentId":11,"scrollX":819,"scrollY":453},
 {"id":13,"expanded":false,"name":"森林2","order":13,"parentId":11,"scrollX":819,"scrollY":445},
-{"id":14,"expanded":false,"name":"森林3","order":14,"parentId":11,"scrollX":811,"scrollY":453},
+{"id":14,"expanded":false,"name":"森林3","order":14,"parentId":11,"scrollX":811,"scrollY":533},
 {"id":15,"expanded":false,"name":"森林4","order":15,"parentId":11,"scrollX":869,"scrollY":445},
 {"id":16,"expanded":true,"name":"林場","order":16,"parentId":11,"scrollX":819,"scrollY":453},
 {"id":17,"expanded":true,"name":"Part.V","order":18,"parentId":0,"scrollX":819,"scrollY":453},
@@ -27,5 +27,5 @@ null,
 {"id":25,"expanded":false,"name":"現實的主角家1","order":24,"parentId":20,"scrollX":819,"scrollY":453},
 {"id":26,"expanded":false,"name":"現實的海港","order":26,"parentId":20,"scrollX":819,"scrollY":453},
 {"id":27,"expanded":true,"name":"事件當日的街道","order":27,"parentId":20,"scrollX":819,"scrollY":453},
-{"id":28,"expanded":true,"name":"第二戰","order":28,"parentId":20,"scrollX":811,"scrollY":607}
+{"id":28,"expanded":true,"name":"第二戰","order":28,"parentId":20,"scrollX":811,"scrollY":505}
 ]
